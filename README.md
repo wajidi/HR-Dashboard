@@ -15,3 +15,4 @@ In this datacamp project, I use Power BI to explore a public dataset from a made
 - Star Schema
 - Fact and Dimension Tables
 - Visualization
+![Overview](https://github.com/user-attachments/assets/19d8fd6a-967a-46b9-9938-86efa80939b5)
